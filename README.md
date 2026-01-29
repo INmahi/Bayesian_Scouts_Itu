@@ -1,133 +1,244 @@
-## Outcome: 
+# ITU Data Hackathon — Universal and Meaningful Connectivity (UMC)
 
-* **Identify** geographical **areas with limited connectivity**, offering to policymakers a typology of such areas that can **help planning more targeted policies;**
-* Profile the subpopulations that do not benefit of a meaningful connectivity due to lack of infrastructure, poor service quality, limited affordability of devices and ICT services, low skills or other barriers;
-* **Explore innovative statistical methodologies** by combining existing data and geospatial sources, identifying additional sources and indicators, **using advanced inference methods**
-
-
-  Participants will have **access to datasets** (in standard formats such as **CSV/JSON**) through a hackathon platform, including but not limited to:
-
-
-
-
-
-
-
-## Our job:
-
-
-
-
-
-Define the concept of UMC in a plain and standardized “statisticians’ language”:
-
-• Terms
-
-• Dimensions
-
-• Indicators
-
-Generate statistical information and indicators to estimate the progress towards UMC
-
-• Compiling what exists
-
-• Piloting new indicators
-
-• Setting standards with established practices
-
-Create capacity in producing and using statistical information about UMC
-
-• Focus on developing and transition countries where statistical
-
-information is scarce
-
-Strengthen regional collaboration and coordination between producers and users of
-
-the statistical information
-
-
-
-
-
-**# UMC MEASUREMENT QUESTIONS**
+> **Bridging the Digital Divide through Data-Driven Insights**
 
 ---
 
-| Dimension             | Conceptual Question                                                                                                                                       | Measurement Objective                                                                                                                                     |
+### Why This README?
 
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+> **Purpose of this readme:** This document serves as a quick-reference guide for our team—consolidating key information from ITU *materials*, hackathon guidelines, and resources into one place so we can stay aligned and move fast.
 
-| Connection quality   | Do people have access to high-speed, stable Internet connections suitable for their specific needs and activities online?                                 | Assessing the speed, reliability, and stability of Internet connections.                                                                                  |
-
-| Availability for use | Are people able to use the Internet as frequently and intensively as they wish? Can people access the Internet in different locations, wherever and whenever they want? | Measuring the regularity and intensity of Internet use among individuals. Evaluating the accessibility and convenience of Internet use in various contexts and locations. |
-
-| Affordability        | Are Internet access, devices, and data plans affordable and sufficient relative to people's incomes, allowing for flexible and desired quality of use?     | Evaluating the affordability, adequacy, and flexibility of Internet services relative to individual incomes.                                               |
-
-| Devices              | Do people have access to the appropriate devices necessary to fully engage with and benefit from digital opportunities?                                    | Evaluating the availability, variety, and suitability of devices used to access the Internet.                                                             |
-
-| Digital skills       | Do people possess the necessary skills to leverage digital opportunities and manage potential risks effectively?                                           | Assessing individuals' competency and confidence in using the Internet effectively.                                                                       |
-
-| Safety and security  | Do people have access to secure Internet connections, can they navigate online safely, and do they feel secure in their online interactions and activities? | Assessing the safety and security of users’ online experience, including concerns and exposure to harmful content and technology-enabled crime.             |
-
-
-**# Questionnaire:**  
 ---
 
-***NOTE: This questionnaire is preliminary, teams can adapt their projects, data sources and methods as their research advances.***
+> **Hey Team!** Before diving in, check out the [Resources/Pdfs](Resources/Pdfs) and [Resources/Slide_highlights](Resources/Slide_highlights) folders for additional context and official materials. For more details, visit the [ITU Datshboard](https://academycourses.itu.int/course/view.php?id=2023&section=0) .
 
+---
 
+## Table of Contents
 
-<i>The objective of this questionnaire is to help hackathon teams present the problem they want to tackle, think about relevant data sources, and reflect on methods they plan to use</i>
+- [About the Hackathon](#about-the-hackathon)
+- [Objectives](#objectives)
+- [Available Datasets](#available-datasets)
+- [Our Mission](#our-mission)
+- [UMC Measurement Framework](#umc-measurement-framework)
+- [Deliverables](#deliverables)
+- [Team Questionnaire](#team-questionnaire)
 
-<i>**This questionnaire will be also used to allocate mentors to teams**</i>
+---
 
+## About the Hackathon
 
+**Universal and Meaningful Connectivity (UMC)** means everyone can access a safe, satisfying, enriching, productive, and affordable online experience. Currently, billions remain offline due to the **coverage gap** (no network infrastructure) and the **usage gap** (infrastructure exists but people can't or don't use it due to affordability, skills, or other barriers). Without UMC, entire populations are excluded from education, healthcare, economic opportunities, and civic participation—deepening inequality. **Our job as teams:** Use data processing, visualization, and storytelling to identify "digital deserts," profile underserved subpopulations, and provide policymakers with actionable insights to bridge these gaps.
+[Hackathon Details](https://www.itu.int/itu-d/sites/projectumc/2025/08/28/umc-data-hackathon/)
+---
 
-1. #### Please indicate the name of your Team
+## Objectives
 
+The hackathon aims to achieve the following outcomes:
 
+| # | Objective | Description |
+|:-:|-----------|-------------|
+| 1 | **Identify Connectivity Gaps** | Pinpoint geographical areas with limited connectivity, providing policymakers with a typology to enable more targeted policy planning |
+| 2 | **Profile Subpopulations** | Characterize groups lacking meaningful connectivity due to infrastructure gaps, poor service quality, affordability barriers, limited skills, or other obstacles |
+| 3 | **Innovate Methodologies** | Explore innovative statistical approaches by combining existing data with geospatial sources, identifying new indicators, and applying advanced inference methods |
 
-IMPORTANT: ONLY ONE RESPONSE PER TEAM IS REQUIRED
+---
 
+## Available Datasets
 
+Participants will have access to datasets (in standard formats such as **CSV/JSON**) through the hackathon platform, including but not limited to:
 
-#### 2\. What specific connectivity challenge are you addressing?
+| Category | Description |
+|:---------|:------------|
+| **Country-level Data** | National statistics and indicators |
+| **ICT Infrastructure** | Cell towers, fiber optic cables availability |
+| **User-generated Content** | Speed measurements and user reports |
+| **Connectivity Metrics** | Broadband speeds, mobile network coverage, quality of service reports |
+| **Demographic & Socioeconomic** | Income levels, education statistics |
+| **Household Surveys** | Aggregate and anonymized survey data |
+| **Geospatial Data** | Satellite imagery, topographic maps |
 
+> **Note:** Provision of anonymized household survey microdata will be explored with data holders.
 
+> **Note:** we will keep adding sources here...
 
-Examples: limited network coverage in rural districts, low broadband speeds in urban slums, affordability gaps, subpopulations excluded due to low digital skills, etc.
+**Tools:** Participants are free to choose their preferred software. Bring your own laptops.
 
+---
 
+## Our Mission
 
-#### 3\. What data sources will you use to detect and analyse this problem?
+### 1.Define UMC Concept
 
+Establish the concept of Universal and Meaningful Connectivity in a standardized "statisticians' language":
 
+- **Terms** — Clear definitions and terminology
+- **Dimensions** — Key measurement dimensions
+- **Indicators** — Quantifiable metrics
 
-Think of both what’s provided by the ITI Data Hub and ITU Infrastructure maps and any additional open or complementary sources you might integrate
+### 2.Generate Statistical Information
 
+Create indicators to estimate progress towards UMC:
 
+- Compile existing data sources
+- Pilot new indicators
+- Set standards with established practices
 
-#### 4\. What geographical area or population group will your project focus on, and why is it important to achieve universal and meaningful connectivity?
+### 3.Build Capacity
 
+Strengthen the production and use of UMC statistical information:
 
+- Focus on developing and transition countries where statistical information is scarce
+- Enhance regional collaboration and coordination between data producers and users
 
-Examples: specific regions/provinces within a country, urban vs rural, low-income groups, women, students, elderly, etc
+### 4.Support Policymaking
 
+---
 
+## UMC Measurement Framework
 
-#### 5\. What statistical and analytical methods will you apply to analyse the information?
+The following table outlines the key dimensions for measuring Universal and Meaningful Connectivity:
 
+| Dimension | Conceptual Question | Measurement Objective |
+|:----------|:--------------------|:----------------------|
+| **Connection Quality** | Do people have access to high-speed, stable Internet connections suitable for their specific needs and activities online? | Assess the speed, reliability, and stability of Internet connections |
+| **Availability for Use** | Are people able to use the Internet as frequently and intensively as they wish? Can they access it wherever and whenever they want? | Measure the regularity and intensity of Internet use; evaluate accessibility and convenience across contexts and locations |
+| **Affordability** | Are Internet access, devices, and data plans affordable relative to people's incomes, allowing for flexible and quality use? | Evaluate the affordability, adequacy, and flexibility of Internet services relative to individual incomes |
+| **Devices** | Do people have access to appropriate devices necessary to fully engage with digital opportunities? | Evaluate the availability, variety, and suitability of devices used to access the Internet |
+| **Digital Skills** | Do people possess the necessary skills to leverage digital opportunities and manage potential risks effectively? | Assess individuals' competency and confidence in using the Internet effectively |
+| **Safety & Security** | Do people have access to secure Internet connections and feel secure in their online interactions? | Assess the safety and security of users' online experience, including exposure to harmful content and cybercrime |
 
+---
 
-Consider methods for integration of data, modelling and estimation (e.g., spatial analysis, small area estimation, regression, clustering, etc.).
+## Deliverables
 
+The hackathon is delivered through two webinars, online mentoring, and an on-site phase for shortlisted teams.
 
+**Teams will deliver:**
 
-#### 6\. How will your findings be visualised and communicated to support policymakers?
+| # | Deliverable | Details |
+|:-:|-------------|:--------|
+| 1 | **Results Presentation** | Maps, dashboards, policy recommendations |
+| 2 | **Code Repository** | Code used to access and process data (preferably in R or Python notebooks) |
+| 3 | **Pitch Presentation** | Presentation before the jury (for shortlisted teams) |
 
+---
 
+## Team Questionnaire
 
-Examples: interactive maps, dashboards, typologies of under-connected areas, narrative briefs, prioritized policy recommendations.
+> **NOTE:** This questionnaire is preliminary. Teams can adapt their projects, data sources, and methods as their research advances.
+
+The objective of this questionnaire is to help hackathon teams:
+
+- Present the problem they want to tackle
+- Think about relevant data sources
+- Reflect on methods they plan to use
+
+> **This questionnaire will also be used to allocate mentors to teams**
+
+---
+
+### 1. Team Name
+
+*Please indicate the name of your team*
+
+> **IMPORTANT:** Only one response per team is required
+
+---
+
+### 2. Connectivity Challenge
+
+*What specific connectivity challenge are you addressing?*
+
+**Examples:**
+- Limited network coverage in rural districts
+- Low broadband speeds in urban slums
+- Affordability gaps
+- Subpopulations excluded due to low digital skills
+
+---
+
+### 3. Data Sources
+
+*What data sources will you use to detect and analyse this problem?*
+
+**Consider:**
+- ITU Data Hub resources
+- ITU Infrastructure maps
+- Additional open or complementary sources you might integrate
+
+---
+
+### 4. Geographic/Population Focus
+
+*What geographical area or population group will your project focus on, and why is it important for achieving universal and meaningful connectivity?*
+
+**Examples:**
+- Specific regions/provinces within a country
+- Urban vs. rural areas
+- Low-income groups
+- Women, students, elderly, etc.
+
+---
+
+### 5. Analytical Methods
+
+*What statistical and analytical methods will you apply to analyse the information?*
+
+**Consider methods such as:**
+- Spatial analysis
+- Small area estimation
+- Regression modeling
+- Clustering techniques
+- Data integration approaches
+
+---
+
+### 6. Visualization & Communication
+
+*How will your findings be visualised and communicated to support policymakers?*
+
+**Examples:**
+- Interactive maps
+- Dashboards
+- Typologies of under-connected areas
+- Narrative briefs
+- Prioritized policy recommendations
+
+---
+
+## ⚡ ACTION REQUIRED — Let's Get Moving!
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🎯  TEAM PRIORITY CHECKLIST — DECIDE NOW!                        │
+│                                                                     │
+│   Before our next sync, we MUST finalize:                          │
+│                                                                     │
+│   □  1. CONNECTIVITY CHALLENGE                                     │
+│        → What problem are we solving? (rural coverage?             │
+│          affordability? digital skills gap?)                       │
+│                                                                     │
+│   □  2. TARGET REGION / POPULATION                                 │
+│        → Where and who are we focusing on?                         │
+│                                                                     │
+│   □  3. DATA SOURCES                                               │
+│        → Which datasets from ITU + external sources?               │
+│                                                                     │
+│   □  4. METHODS & TOOLS                                            │
+│        → GIS - Earth Engine - Python -R- EDA                        │
+│                                                                     │
+│   □  5. VISUALIZATION STRATEGY                                     │
+│        → Maps? Dashboards? What tells our story best?              │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+---
+
+<p align="center">
+  <em>— Team Bayesian Scouts —</em>
+</p>
 
 
 
