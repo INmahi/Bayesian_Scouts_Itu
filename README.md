@@ -122,8 +122,6 @@ The following table outlines the key dimensions for measuring Universal and Mean
 
 ## Deliverables
 
-The hackathon is delivered through two webinars, online mentoring, and an on-site phase for shortlisted teams.
-
 **Teams will deliver:**
 
 | # | Deliverable | Details |
@@ -137,13 +135,6 @@ The hackathon is delivered through two webinars, online mentoring, and an on-sit
 ## Team Questionnaire
 
 > **NOTE:** This questionnaire is preliminary. Teams can adapt their projects, data sources, and methods as their research advances.
-
-The objective of this questionnaire is to help hackathon teams:
-
-- Present the problem they want to tackle
-- Think about relevant data sources
-- Reflect on methods they plan to use
-
 > **This questionnaire will also be used to allocate mentors to teams**
 
 ---
@@ -154,7 +145,6 @@ The objective of this questionnaire is to help hackathon teams:
 
 > **IMPORTANT:** Only one response per team is required
 
----
 
 ### 2. Connectivity Challenge
 
@@ -166,8 +156,6 @@ The objective of this questionnaire is to help hackathon teams:
 - Affordability gaps
 - Subpopulations excluded due to low digital skills
 
----
-
 ### 3. Data Sources
 
 *What data sources will you use to detect and analyse this problem?*
@@ -177,7 +165,6 @@ The objective of this questionnaire is to help hackathon teams:
 - ITU Infrastructure maps
 - Additional open or complementary sources you might integrate
 
----
 
 ### 4. Geographic/Population Focus
 
@@ -188,8 +175,6 @@ The objective of this questionnaire is to help hackathon teams:
 - Urban vs. rural areas
 - Low-income groups
 - Women, students, elderly, etc.
-
----
 
 ### 5. Analytical Methods
 
@@ -202,7 +187,6 @@ The objective of this questionnaire is to help hackathon teams:
 - Clustering techniques
 - Data integration approaches
 
----
 
 ### 6. Visualization & Communication
 
