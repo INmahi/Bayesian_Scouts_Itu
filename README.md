@@ -28,8 +28,18 @@
 
 ## About the Hackathon
 
-**Universal and Meaningful Connectivity (UMC)** means everyone can access a safe, satisfying, enriching, productive, and affordable online experience. Currently, billions remain offline due to the **coverage gap** (no network infrastructure) and the **usage gap** (infrastructure exists but people can't or don't use it due to affordability, skills, or other barriers). Without UMC, entire populations are excluded from education, healthcare, economic opportunities, and civic participation—deepening inequality. **Our job as teams:** Use data processing, visualization, and storytelling to identify "digital deserts," profile underserved subpopulations, and provide policymakers with actionable insights to bridge these gaps.
-[Hackathon Details](https://www.itu.int/itu-d/sites/projectumc/2025/08/28/umc-data-hackathon/)
+**Universal and Meaningful Connectivity (UMC)** means everyone can access a safe, satisfying, enriching, productive, and affordable online experience.
+
+Currently, billions remain offline due to:
+**Coverage gap** — No network infrastructure available.
+**Usage gap** — Infrastructure exists, but barriers like affordability, skills, or awareness prevent use
+
+Without UMC, populations are excluded from education, healthcare, economic opportunities, and civic participation—deepening inequality.
+
+**Our job as teams:** Use data processing, visualization, and storytelling to identify "digital deserts," profile underserved subpopulations, and provide policymakers with actionable insights to bridge these gaps.
+
+→ [Official Hackathon Details](https://www.itu.int/itu-d/sites/projectumc/2025/08/28/umc-data-hackathon/)
+
 ---
 
 ## Objectives
